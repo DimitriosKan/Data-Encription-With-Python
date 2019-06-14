@@ -1,0 +1,1 @@
+input("Write something here: ")
